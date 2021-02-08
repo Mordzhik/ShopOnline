@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.2.2)
+  - EasyPeasy (1.9.0)
+  - EMTNeumorphicView (1.0.4)
+  - MHSoftUI (0.1.0)
+  - MSPeekCollectionViewDelegateImplementation (3.1.1)
+  - NeumorphismTab (0.9.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - EasyPeasy
+  - EMTNeumorphicView
+  - MHSoftUI
+  - MSPeekCollectionViewDelegateImplementation
+  - NeumorphismTab
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EasyPeasy
+    - EMTNeumorphicView
+    - MHSoftUI
+    - MSPeekCollectionViewDelegateImplementation
+    - NeumorphismTab
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  EasyPeasy: 19a84ef8f8bbcf925b9fecc29d1d78b7dab96718
+  EMTNeumorphicView: cb5e92953e43b1872ab47fefd451a9ce0c16fc77
+  MHSoftUI: efa0704cbc30d118bbede29f19c35efeb0c8f4c3
+  MSPeekCollectionViewDelegateImplementation: f86fd6a6ce284723343e8697a013f5294c05e745
+  NeumorphismTab: 4706107161bcee092a0c66093f1ab0221de52220
+
+PODFILE CHECKSUM: 6596ff9cc7b7409bafd47c7750496e8ad1ffe00d
+
+COCOAPODS: 1.9.3
